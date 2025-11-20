@@ -152,7 +152,10 @@ const Hero = () => {
                 </div>
                 <div className="code-line indent">
                   <span className="code-keyword">String</span> role ={' '}
-                  <span className="code-string">"Flutter Dev"</span>;
+                  <span className="code-string">"Mobile Developer"</span>;
+                </div>
+                <div className="code-line indent">
+                  <span className="code-keyword">List</span> stack = [<span className="code-string">"Flutter"</span>, <span className="code-string">"React Native"</span>];
                 </div>
                 <div className="code-line">{'}'}</div>
               </div>
